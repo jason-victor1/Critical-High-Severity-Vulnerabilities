@@ -230,6 +230,7 @@ Ready for a practical exercise? Follow these steps to put your knowledge into pr
 
 🚀 **Adopt these techniques to secure DeFi protocols, NFT marketplaces, and other blockchain applications efficiently.**
 
+
 **Next Guide:** **"Manipulating EVM Bytecode & Opcode-Level Attacks"**
 - Understanding EVM opcodes 
 - Delegatecall hijacks & selfdestruct vulnerabilities 
